@@ -1,0 +1,6 @@
+name = CiviCRM Views CiviCRM Activity Files
+description = Makes CiviCRM Files available in Views with the CiviCRM Activities content type.
+core = 7.x
+package = civicrm
+dependencies[] = views:views
+dependencies[] = civicrm:civicrm
